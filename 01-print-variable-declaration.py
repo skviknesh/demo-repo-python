@@ -6,7 +6,11 @@
 # "print" function ####################################################################################################
 
 print("Hello World")
-print("My name is Viknesh")
+
+print(" this is a new line")
+
+
+#  adsfasdfadsfasdf
 
 
 # "end" parameter - the output with a <space at end by default> #######################################################
